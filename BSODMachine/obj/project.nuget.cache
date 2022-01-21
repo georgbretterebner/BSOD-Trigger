@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E9pO8Uw2IRkt2YU2eeveiebnNFl/bFUWv3UnEeSiQ0t55H4BHgcw4EKz09kctqesE0ewKUvCeMALlfQpzoG9lw==",
+  "dgSpecHash": "N+IJCOdd/ZPjEW+DyFGcRDGrWxQOwM4tewqLGtZeONcrhWyjh7frX8noL+ZLk5RQ4pJJW7fCESfZxoIL4q8YkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\source\\repos\\BSODMachine\\BSODMachine\\BSODMachine.csproj",
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\BSODMachine\\BSOD-Trigger\\BSODMachine\\BSODMachine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

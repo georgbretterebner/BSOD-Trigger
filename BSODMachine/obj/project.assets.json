@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\BSODMachine\\BSODMachine\\BSODMachine.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\BSODMachine\\BSOD-Trigger\\BSODMachine\\BSODMachine.csproj",
       "projectName": "BSODMachine",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\BSODMachine\\BSODMachine\\BSODMachine.csproj",
+      "projectPath": "C:\\Users\\georg\\source\\repos\\BSODMachine\\BSOD-Trigger\\BSODMachine\\BSODMachine.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\source\\repos\\BSODMachine\\BSODMachine\\obj\\",
+      "outputPath": "C:\\Users\\georg\\source\\repos\\BSODMachine\\BSOD-Trigger\\BSODMachine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,0 +1,5 @@
+C:\Users\georg\source\release\bsod\BSODMachine.exe
+C:\Users\georg\source\release\bsod\BSODMachine.dll
+C:\Users\georg\source\release\bsod\BSODMachine.deps.json
+C:\Users\georg\source\release\bsod\BSODMachine.runtimeconfig.json
+C:\Users\georg\source\release\bsod\BSODMachine.pdb
