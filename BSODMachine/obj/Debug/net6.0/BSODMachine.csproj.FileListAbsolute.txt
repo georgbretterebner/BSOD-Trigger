@@ -1,0 +1,15 @@
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\bin\Debug\net6.0\BSODMachine.exe
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\bin\Debug\net6.0\BSODMachine.deps.json
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\bin\Debug\net6.0\BSODMachine.runtimeconfig.json
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\bin\Debug\net6.0\BSODMachine.dll
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\bin\Debug\net6.0\ref\BSODMachine.dll
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\bin\Debug\net6.0\BSODMachine.pdb
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\obj\Debug\net6.0\BSODMachine.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\obj\Debug\net6.0\BSODMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\obj\Debug\net6.0\BSODMachine.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\obj\Debug\net6.0\BSODMachine.AssemblyInfo.cs
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\obj\Debug\net6.0\BSODMachine.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\obj\Debug\net6.0\BSODMachine.dll
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\obj\Debug\net6.0\ref\BSODMachine.dll
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\obj\Debug\net6.0\BSODMachine.pdb
+C:\Users\georg\source\repos\BSODMachine\BSODMachine\obj\Debug\net6.0\BSODMachine.genruntimeconfig.cache
